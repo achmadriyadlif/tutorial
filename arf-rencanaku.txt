@@ -3,5 +3,6 @@ Rencanaku
 -harus selesai latihan semua
  *tutorial
  *materi
+ *prakteknya
 -work hard
 -terus belajar
